@@ -1,5 +1,5 @@
 Front-End Project, Based on HTML, CSS, Bootstrap, JQuery, Ajax.
-This project was made for job interview.
+This project was made for job interview for a front-end position.
 the client-side does HTTP request to StarWars documentation restApi and shows the given information to the user.
 Index.php:
 
