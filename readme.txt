@@ -3,7 +3,7 @@ This project was made for job interview.
 the client-side does HTTP request to StarWars documentation restApi and shows the given information to the user.
 Index.php:
 
-![Screenshot](https://github.com/Haimzis/Starwars_filmsDoc_restAPI/index.png)
+![Screenshot](https://github.com/Haimzis/Starwars_filmsDoc_restAPI/blob/master/index.png)
 
 to run this web application, open index.html file with chrome/ Mozilla firefox.
 assets directory and index.html must be in the same path.
